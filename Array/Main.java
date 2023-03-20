@@ -11,7 +11,6 @@ public class Main {
         LimasSegiEmpat d = new LimasSegiEmpat();
         Bola e = new Bola();
         
-        //System.out.println(" Volume yang akan dirata - rata: ");
         for (int i = 0; i < volume.length; i++){
         switch(i){
             case 0: 
